@@ -38,9 +38,9 @@ endif
 
 CPU := avr
 COMPILER := gcc
-BOARD := nano-v3
+BOARD := nano_v3
 
 # 
 PROJ_DIRS += source/application/arduino-lirc
-PROJ_DIRS += source/cpu/avr/arcuino/core
+PROJ_DIRS += source/cpu/avr/arduino/core
 
