@@ -1,0 +1,13 @@
+Build
+
+Import into Eclipse
+
+From the command line type line  initialise submodules
+$ git submodule init
+
+Then pull in the submoules with
+$ git submodule update
+
+Then build from inside eclipse or type make at the command line.
+
+This is all a work in progress. 

@@ -1,12 +1,12 @@
 /**
  * Arduino IR receiver to lirc.
  *
- * This is a IR receiver that outputs over the serial port pulse timmings.
- * Must of the code in this module is borrowed from the avrlirc code at
+ * This is a IR receiver that outputs over the serial port pulse timings.
+ * Much of the code in this module is borrowed from the avrlirc code at
  * http://www.foxharp.boston.ma.us/avrlirc/ website.  I have changed the code
  * to fit inside the arduino architecture running on an Arduino nano v3
  * hardware.  I have not made many changes to the code and it basically runs
- * the same way on this processor.  Just compiled it against the Ardunio
+ * the same way on this processor.  Just compiled it against the Arduino
  * libraries for serial port comms.
  */
 /* License
